@@ -1,10 +1,8 @@
-# Istanbul-Retail-Sales-Dashboard
-Power BI dashboard analysing retail sales across 10 Istanbul shopping malls (Python + Power BI).
 # Istanbul Retail Sales Dashboard
 
 Power BI dashboard analysing retail sales across 10 Istanbul shopping malls (Python + Power BI).
 
-![Summary page](images/summary.png)
+![Summary page](images/1.png)
 
 ## Goal
 
@@ -35,7 +33,7 @@ The data appears synthetic, which explains the uniform behaviour across segments
 
 | Summary | Products & Malls | Customers |
 |---|---|---|
-| ![](images/summary.png) | ![](images/products-malls.png) | ![](images/customers.png) |
+| ![](images/1.png) | ![](images/2.png) | ![](images/3.png) |
 
 ## Tools
 
@@ -45,3 +43,4 @@ Python (pandas), Power BI (DAX, Power Query).
 
 - [`Istanbul Retail.pbix`](Istanbul%20Retail.pbix): Power BI report
 - [`Python.pdf`](Python.pdf): data cleaning (Python)
+- `images/`: screenshots

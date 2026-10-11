@@ -43,4 +43,4 @@ Python (pandas), Power BI (DAX, Power Query).
 
 - [`Istanbul Retail.pbix`](Istanbul%20Retail.pbix): Power BI report
 - [`Python.pdf`](Python.pdf): data cleaning (Python)
-- `images/`: screenshots
+- [`images/`](images): dashboard screenshots
